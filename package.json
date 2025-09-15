@@ -1,0 +1,23 @@
+{
+  "name": "edumotiv-mock-backend",
+  "version": "1.0.0",
+  "description": "Mock backend for EduMotiv student motivation system",
+  "main": "mock-backend.js",
+  "scripts": {
+    "start": "node mock-backend.js",
+    "dev": "node mock-backend.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "education",
+    "motivation",
+    "api",
+    "mock"
+  ],
+  "author": "EduMotiv Team",
+  "license": "MIT"
+}
